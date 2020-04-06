@@ -1,0 +1,46 @@
+body{
+  background: url(l.jpg);
+  background-size: cover;
+  font-family:sans-serif;
+
+}
+.eye{
+  color:white;
+  font-size: 20px;
+  background-color: #03a9f473;
+  width:1000px;
+  left: 40px;
+  padding: 20px;
+  margin:40px;
+  margin-left: 230px;
+
+
+}
+.home{
+  text-decoration: none;
+  background:#03a9f473;
+  color:white;
+  padding:20px;
+  margin:20px;
+}
+.home:hover{
+  background-color:#673ab78c;
+}
+.img img{
+  height:200px;
+  width:300px;
+  float:left;
+}
+.img1 img{
+  height:200px;
+  width:300px;
+  float:left;
+}
+.img2 img{
+  height:200px;
+  width:300px;
+}
+.ig{
+  margin-left: 50px;
+  margin-top: 20px;
+}

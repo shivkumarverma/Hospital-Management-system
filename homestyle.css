@@ -1,0 +1,100 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+body{
+
+  background:url(b.jpg) no-repeat;
+  background-size: cover;
+  background-position: top;
+  background-attachment:fixed;
+  font-family: sans-serif;
+}
+.login{
+  background-color: none;
+  text-align:right;
+}
+.login ul{
+  display: inline-flex;
+  list-style:none;
+  color:black;
+}
+
+.login ul li{
+  padding:5px;
+  margin:5px;
+}
+.login ul li a:hover{
+  color:red;
+}
+.login ul li a{
+  text-decoration: none;
+  color: #10111196;
+}
+.menu-bar{
+  background-color:  #03a9f473;
+  color:white;
+  text-align: center;
+  }
+.menu-bar ul{
+  display: inline-flex;
+  list-style:none;
+  color:white;
+}
+.menu-bar ul li{
+  width:120px;
+  margin:1px;
+  padding:10px;
+}
+.menu-bar ul li a{
+  text-decoration: none;
+  color: white;
+}
+
+.active, .menu-bar ul li:hover {
+background:#673ab78c;
+border-radius: 0px;
+
+}
+.sub-menu-1{
+  display: none;
+}
+.menu-bar ul li:hover .sub-menu-1{
+  display:block;
+  position:absolute;
+  background: #03a9f473;
+  margin-top:28px;
+  margin-bottom:20px;
+
+
+}
+.menu-bar ul li:hover .sub-menu-1 ul{
+  display: block;
+  margin:0px;
+}
+.menu-bar ul li:hover .sub-menu-1 ul li{
+  width:100px;
+  padding:10px;
+  border-bottom:1px dotted #fff;
+  border-radius: 0;
+  text-align: left;
+}
+.menu-bar ul li:hover .sub-menu-1 ul li:last-child{
+  border-bottom: none;
+}
+.wel{
+  background-color: #10111196;
+  color:#fff;
+  font-family: cursive;
+  left:40px;
+  height:150px;
+  padding:40px;
+  width: auto;
+  text-align:Left;
+  top: 40px;
+  margin-left: 30%;
+  margin-top: 18%;
+}
+.wel p{
+  text-align: right;
+}

@@ -1,0 +1,28 @@
+body{
+  background: url("a.png") no-repeat;
+  background-size:cover;
+  background-position: center;
+  font-family:sans-serif;
+color:black;
+  }
+  .i{
+    border-radius:40px;
+  }
+  .home{
+    text-decoration: none;
+    background:#03a9f473;
+    color:white;
+    padding:20px;
+    margin:20px;
+  }
+  .home:hover{
+    background-color:#673ab78c;
+  }
+.ent{
+  background-color: #03a9f473;
+  color:#fff;
+  font-size:18px;
+  padding:30px;
+  width: 1000px;
+  margin-left: 200px;
+}
