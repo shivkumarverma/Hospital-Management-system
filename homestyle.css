@@ -107,6 +107,7 @@ color:#fff;
 margin-left: 30%;
 text-align: Right;
 padding: 10px;
+  font-family: cursive;
 }
 .report a{
   text-decoration: none;
@@ -118,7 +119,7 @@ padding: 10px;
     background-color: #03a9f473;
   }
   .report p{
-   font-family:cursive;
+   font-family: cursive;
     margin-left: 30%;
     float: left;
   }
