@@ -27,6 +27,9 @@ body{
 .login ul li a:hover{
   color:red;
 }
+.report{
+  background-color:
+}
 .login ul li a{
   text-decoration: none;
   color: #10111196;
@@ -96,5 +99,13 @@ border-radius: 0px;
   margin-top: 18%;
 }
 .wel p{
-  text-align: right;
+   text-align: right;
+}
+.report{
+  background-color:#10111196;
+  margin-left:20px;
+  color:#fff;
+}
+.report a{
+  text-decoration:none;
 }
