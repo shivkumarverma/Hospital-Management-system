@@ -102,10 +102,22 @@ border-radius: 0px;
    text-align: right;
 }
 .report{
-  background-color:#10111196;
-  margin-left:20px;
-  color:#fff;
+background-color: #673ab78c;
+color:#fff;
+margin-left: 30%;
+text-align: Right;
+padding: 10px;
 }
 .report a{
-  text-decoration:none;
-}
+  text-decoration: none;
+  color: #fff;
+  border-left: 1px solid #fff;
+  padding: 10px;
+  }
+  .report a:hover{
+    background-color: #03a9f473;
+  }
+  .report p{
+    margin-left: 30%;
+    float: left;
+  }
