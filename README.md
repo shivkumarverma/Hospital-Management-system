@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Project
 
-You can use the [editor on GitHub](https://github.com/shivkumarverma/Hospital-Management-system/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Hospital-Management-system
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Description 
 
-### Markdown
+This is a complete basic and static website for hostpital and treatment information.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## version 
 
-```markdown
-Syntax highlighted code block
+1.0
 
-# Header 1
-## Header 2
-### Header 3
+## Technologies 
 
-- Bulleted
-- List
+ Html , css
 
-1. Numbered
-2. List
+ ## Website link 
 
-**Bold** and _Italic_ and `Code` text
+https://shivkumarverma.github.io/Hospital-Management-system/
 
-[Link](url) and ![Image](src)
-```
+## Countributer
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- Shiv Kumar Verma
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shivkumarverma/Hospital-Management-system/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
